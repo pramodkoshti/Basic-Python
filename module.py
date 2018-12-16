@@ -6,6 +6,6 @@ def display(name):
 
 
 module_dict = {
-	"name" : "Pramod"
+	"name" : "Pramod",
 	"age" : 15
 }	
