@@ -1,0 +1,4 @@
+This file is only for 
+demo purpose.
+We can open / read / write / append this file using the Python
+Let's start!
